@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "открытка", "открытка\открытка.csproj", "{6DF7F98A-47F3-4A41-AD07-ED1AA8A2DDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF7F98A-47F3-4A41-AD07-ED1AA8A2DDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF7F98A-47F3-4A41-AD07-ED1AA8A2DDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF7F98A-47F3-4A41-AD07-ED1AA8A2DDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF7F98A-47F3-4A41-AD07-ED1AA8A2DDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CE3766-9366-44F0-94B4-B4C7B0FE43C3}
+	EndGlobalSection
+EndGlobal
